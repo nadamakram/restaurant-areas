@@ -1,5 +1,5 @@
 # restaurant-areas
-Program to scrape Egyptian areas from a famous food delivery app using Scrapy spiders.
+Program to scrape Egyptian restaurant areas from a famous food delivery app using Scrapy spiders.
 <br>
 <br>
 Is run using `scrapy command lines`
